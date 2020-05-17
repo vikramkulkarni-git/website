@@ -1,2 +1,2 @@
-FROM vikram/apache-df1
+FROM vikram/apache-df2
 ADD . /var/www/html
