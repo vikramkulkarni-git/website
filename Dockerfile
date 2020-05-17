@@ -1,2 +1,2 @@
-FROM vikram-df6
+FROM vikram/apache
 ADD . /var/www/html
